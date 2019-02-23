@@ -1,5 +1,8 @@
 _repo: Jean-Christophe-IV-Kapinoitsija_58847
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rolland, Romain
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58847#Jean-Christophe-IV-Kapinoitsija
 gutenberg_issued: '2019-02-09'
 gutenberg_type: Text
 identifiers:
